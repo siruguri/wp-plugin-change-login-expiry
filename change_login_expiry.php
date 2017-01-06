@@ -14,9 +14,9 @@ Text Domain: dstrategies
 */
 
 if ( !function_exists( 'cle_cookie_expiration' ) ) {
-    function cle_cookie_expiration( $expiration, $user_id, $remember ) {
-        /* 15 minutes */
-        return $remember ? $expiration : 60 * 15;
-    }
+  function cle_cookie_expiration( $expiration, $user_id, $remember ) {
+    /* 15 minutes */
+    return $remember ? $expiration : 60 * 15;
+  }
 }
 add_filter( 'auth_cookie_expiration', 'cle_cookie_expiration', 999, 3 );
