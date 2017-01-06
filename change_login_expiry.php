@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: Change Login Expiry
-Plugin URI: https://www.dstrategies.org/
+Plugin URI: https://github.com/siruguri/wp-plugin-change-expiry
 Description: Change Login Expiry sets your login cookie's expiry time - there is no admin screen for it though.
 Version: 0.4.0
 Author: Sameer Siruguri

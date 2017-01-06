@@ -21,6 +21,10 @@ Upload the plugin to your blog, activate it.
 
 == Changelog ==
 
+= 0.4.0 =
+*Release Date - 6 Jan 2017*
+Implement WordPress.org best practices
+
 = 0.3.0 =
 *Release Date - 6 Jan 2017*
 Use more descriptive name for plugin
