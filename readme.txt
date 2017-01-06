@@ -7,11 +7,11 @@ Stable tag: 0.4.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
 
-Change Expiry sets your login cookie's expiry time but you have to do it in the code.
+Change Login Expiry sets your login cookie's expiry time (though you have to do it in the code, an admin page has not been implemented.)
 
 == Description ==
 
-Change Expiry sets your expiry but you have to do it in the code. In `change_expiry.php`, change the number of seconds in the function `cookie_expiration`
+Change Login Expiry sets your expiry but you have to do it in the code. In `change_login_expiry.php`, change the number of seconds in the function `cle_cookie_expiration`
 
 == Installation ==
 
