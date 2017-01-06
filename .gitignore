@@ -1,0 +1,7 @@
+*.log
+wp-config.php
+
+/.htaccess
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
